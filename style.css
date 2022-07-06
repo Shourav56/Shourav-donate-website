@@ -18,10 +18,9 @@
     padding: 150px;
     margin: 0;
     background-image: url(images/donation13.jpg);
-
-
-
-
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .editbutton {
@@ -66,11 +65,16 @@
     padding: 2%;
 }
 
+.halfwidth img {
+    width: 80%;
+}
 
 
 .flexable {
     display: flex;
-    margin-bottom: 20px;
+    margin-bottom: 80px;
+
+
 
 }
 
@@ -130,12 +134,12 @@
     display: block;
     text-align: center;
     text-decoration: none;
-    background-image: linear-gradient(red, rgb(223, 87, 14));
+    background-image: linear-gradient(red, orange);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size: 7%;
-    color: white;
+    color: black;
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
@@ -168,6 +172,57 @@
     border-radius: 10px;
     box-shadow: inset 5em 20em lightyellow;
     padding: 20px;
+
 }
 
+.donationedit {
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    color: black;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+footer {
+    text-align: center;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    margin: 0px;
+    padding: 10px 40px;
+}
+
+button {
+    text-decoration: none;
+    text-align: center;
+    background-color: lightgreen;
+    background-size: cover;
+    background-position: center;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    margin: 0px;
+    padding: 10px 40px;
+}
+
+#subscribedit {
+    text-decoration: none;
+    text-align: center;
+    background-color: lightcoral;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    margin: 0px;
+    padding: 10px 40px;
 }
