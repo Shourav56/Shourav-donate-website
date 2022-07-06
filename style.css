@@ -1,0 +1,124 @@
+#middle {
+    text-align: center;
+    color: white;
+    font-weight: 900;
+    font-size: 50px;
+
+}
+
+#h3middle {
+    text-align: center;
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+#box {
+
+    padding: 150px;
+    margin: 0;
+    background-image: url(images/donation13.jpg);
+
+
+
+
+}
+
+.editbutton {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 7%;
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+    margin: 2%;
+}
+
+#middle2 {
+    text-align: center;
+    color: black;
+    font-weight: 900;
+    font-size: 50px;
+
+}
+
+#middle3 {
+    text-align: center;
+    color: black;
+    font-weight: 900;
+    font-size: 20px;
+
+}
+
+
+
+.halfwidth {
+    width: 50%;
+    padding: 2%;
+}
+
+
+
+.flexable {
+    display: flex;
+    margin-bottom: 20px;
+
+}
+
+#shadow1 {
+    width: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    box-shadow: inset 5em 1em rgb(185, 164, 164);
+    padding: 20px;
+}
+
+#shadow2 {
+    width: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    box-shadow: inset 5em 1em rgb(244, 166, 166);
+    padding: 20px;
+}
+
+#shadow3 {
+    width: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    box-shadow: inset 5em 1em rgb(193, 162, 162);
+    padding: 20px;
+}
+
+#shadow4 {
+    width: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    box-shadow: inset 5em 1em rgb(188, 159, 159);
+    padding: 20px;
+
+}
+
+#shadow5 {
+    text-align: center;
+    border: 3px lightslategray;
+    width: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    box-shadow: inset 5em 7em rgb(209, 205, 205);
+    padding: 20px;
+}
+
+#red {
+    color: red;
+}
